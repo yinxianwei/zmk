@@ -1,0 +1,6 @@
+if SHIELD_XPAD
+
+config ZMK_KEYBOARD_NAME
+    default "xpad"
+
+endif
